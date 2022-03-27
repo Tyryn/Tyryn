@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyryn
 - 👀 I’m interested in data analysis and data science.
-- 🌱 I’m currently learning data analysis, specifically RShiny applications. I am also interested in data science modeling.
+- 🌱 I’m currently learning data analysis, specifically R Shiny applications. I am also interested in data science modeling.
 - 📫 You can reach me here or on tyryn.carnegie@gmail.com
 
 <!---
